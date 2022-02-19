@@ -1,8 +1,0 @@
-﻿.vs/OnionBlogger/v16
-WebAPI/obj
-Application/obj/Debug/net5.0
-Application/obj
-Domain/obj/Debug/net5.0
-Domain/obj/Debug/netcoreapp2.0
-Domain/obj
-Infrastructure/obj
