@@ -6,3 +6,9 @@ Domain/obj/Debug/net5.0
 Domain/obj/Debug/netcoreapp2.0
 Domain/obj
 Infrastructure/obj
+.vs/OnionBlogger/config
+.vs/OnionBlogger/DesignTimeBuild
+Application/bin
+Domain/bin
+Infrastructure/bin
+WebAPI/bin
